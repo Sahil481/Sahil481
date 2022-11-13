@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **React JS**
 
-- 👨‍💻 All of my projects are available at [sahil481.github.io/Personal-Website/](sahil481.github.io/Personal-Website/)
+- 👨‍💻 All of my projects are available at [Personal Website](https://sahil481.github.io/Personal-Website/)
 
 - 💬 Ask me about **react, frontend**
 
