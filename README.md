@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/sahilya909" target="blank"><img src="https://img.shields.io/twitter/follow/sahilya909?logo=twitter&style=for-the-badge" alt="sahilya909" /></a> </p>
 
-- 🔭 I’m currently working on **A blog website**
+- 🔭 I’m currently working on **A weather app**
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **Flutter**
 
 - 👨‍💻 All of my projects are available at [Personal Website](https://sahil481.github.io/Personal-Website/)
 
-- 💬 Ask me about **react, frontend**
+- 💬 Ask me about **Full Stack, Database, OOPs, anything**
 
 - 📫 How to reach me **sahilya909@gmail.com**
 
